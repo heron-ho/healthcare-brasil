@@ -1,0 +1,6 @@
+Processos:
+
+1) Obter lista de empresas na b3, que são da área hospitalar
+2) Usar seus identificadores para raspar dados financeiros, cnpj e site através do site Statusinvest
+3) Usar o cnpj para encontar dados cadastrais da RF por meio de raspagem no Econodata 
+5) Também no Econodata, encontrar filiais.
